@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohan-Gulavani
-- 👀 I’m interested in ALML applications 
+- 👀 I’m interested in AIML applications 
 - 🌱 I’m currently learning AI FOR BUSINESS
 - 💞️ I’m looking to collaborate on AI applications for automobile sectors
 - 📫 How to reach me MAIL ME rohan.vita@gmail.com
